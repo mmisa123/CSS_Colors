@@ -1,3 +1,9 @@
 h1 {
     text-align: center;
 }
+
+.marker {
+    margin: 10px auto;
+    height: 25px;
+    width: 200px;
+}
