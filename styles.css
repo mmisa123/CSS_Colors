@@ -10,6 +10,7 @@ h1 {
 }
 
 .red{
+    box-shadow: 5px 5px red;
     background: linear-gradient(180deg, rgb(122,74,14) , rgb(245,62,113) ,rgb(162,27,27) );
 }
 
